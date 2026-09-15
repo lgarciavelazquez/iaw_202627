@@ -11,7 +11,7 @@
 
 ## ¿Qué tienes que hacer?
 
-Crea un fichero en Markdown llamado `ejercicio2.md`. Este fichero tiene que tener los siguientes elementos en este orden:
+Crea un fichero en Markdown llamado `ejercicio2.md`. Este fichero tiene que tener todos los elementos de la sintaxis de Markdown que hemos estudiado, en este orden:
 
 * Un título principal
 * Un subtítulo
@@ -20,14 +20,14 @@ Crea un fichero en Markdown llamado `ejercicio2.md`. Este fichero tiene que tene
 * Una lista ordenada
 * Una lista desordenada.
 * Un enlace a una URL externa.
-* Un enlace a otro fichero Markdown que tengas en el repositorio.
-* Una imagen
+* Un enlace a otro documento Markdown que tengas en el repositorio. Antes crea el documento
+* Una imagen. Antes crea en el repositorio un directorio llamado images e incluye dentro la imagen
 * Una tabla
 
 
 ## ¿Qué tienes que realizar?
 
 1. Sube el fichero `ejercicio2.md` al repositorio remoto que has creado en ejercicio anterior: **prueba_tu_nombre**.
-2. Actualiza o personaliza tu perfil de GitHub
+2. Actualiza o personaliza tu perfil de GitHub.
 
 
