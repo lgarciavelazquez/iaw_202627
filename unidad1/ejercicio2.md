@@ -28,5 +28,6 @@ Crea un fichero en Markdown llamado `ejercicio2.md`. Este fichero tiene que tene
 ## ¿Qué tienes que realizar?
 
 1. Sube el fichero `ejercicio2.md` al repositorio remoto que has creado en ejercicio anterior: **prueba_tu_nombre**.
+2. Actualiza o personaliza tu perfil de GitHub
 
 
