@@ -29,8 +29,8 @@ Crea un fichero en Markdown llamado `ejercicio2.md`. Este fichero tiene que tene
 
 1. Sube el fichero `ejercicio2.md` al repositorio remoto que has creado en ejercicio anterior: **prueba_tu_nombre**.
 2. Actualiza o personaliza tu perfil de GitHub
-   2.1. Crea un repositorio con el mismo nombre que tu usuario de Github que incluya un archivo README.md
-   2.2. Añade contenido al archivo README.md utilizando elementos de la sintaxis de Markdown para configurar tu página personal y súbelo al repositorio.
+   - 2.1. Crea un repositorio con el mismo nombre que tu usuario de Github que incluya un archivo README.md
+   - 2.2. Añade contenido al archivo README.md utilizando elementos de la sintaxis de Markdown para configurar tu página personal y súbelo al repositorio.
     
 
 
