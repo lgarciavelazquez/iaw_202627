@@ -55,7 +55,7 @@ Trabaja con el repositorio de los ejercicios anteriores.
 	* Crea un fichero `prueba.txt` en la rama principal. Recuerda hacer un commit.
 	* Crea una nueva rama y accede a ella. 
 	* Modifica el fichero en la nueva rama. Recuerda hacer un commit.
-	* Vuelve a la rama principal. Y modifica de nuevo el fichero antes de realizar el merge.
+	* Vuelve a la rama principal. Y modifica  de nuevo el fichero antes de realizar el merge.
 	* Realiza la unión y aparece el conflicto:
 
 			$ git merge nuevo 

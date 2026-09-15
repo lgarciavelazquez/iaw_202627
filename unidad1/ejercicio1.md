@@ -24,7 +24,7 @@ Una vez creado el *token*, la conexión al repositorio remoto se puede hacer de 
 * git clone https://USERNAME:TOKEN@github.com/USERNAME/REPO.git
 ```
 
-1. Crea en GitHub un repositorio REMOTO con el nombre **prueba_tu_nombre** (**inicializa el repositorio** con un fichero README) y la descripción **Repositorio de prueba 2ASIR**.
+1. Crea en GitHub un repositorio REMOTO con el nombre **prueba_tu_nombre** (**inicializa el repositorio** con un fichero README.md) y la descripción **Repositorio de prueba 2ASIR**.
 
 2. Conéctate remotamente a una máquina virtual Linux Debian 12 e instala git  (**si no lo tienes instalado!!!**). **Nota**: Recuerda que desde Windows utiliza *Git Bash*.
 ```
