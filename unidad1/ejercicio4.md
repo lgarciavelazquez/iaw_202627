@@ -12,7 +12,7 @@
 ## ¿Qué tienes que hacer?
 
 Un pull request es una petición que se hace al propietario de un repositorio original para que este último incorpore los cambios que se sugieren.
-En este ejercicio tienes que hacer un pull request sobre el siguiente repositorio: <https://github.com/lgarciavelazquez/prueba-pr-iaw_202526>
+En este ejercicio tienes que hacer un pull request sobre el siguiente repositorio: <https://github.com/lgarciavelazquez/prueba-pr-iaw_202627>
 
 * Realiza un pull request a este repositorio para solicitar dos cambios: **Nota**: No olvides crear previamente una rama nueva sobre la que realizarás los cambios.
 
