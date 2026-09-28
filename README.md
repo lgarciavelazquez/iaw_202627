@@ -10,9 +10,9 @@
   * [Ejercicio 4: Git. Colaborar en un proyecto de software libre. Pull Request (PR)](unidad1/ejercicio4.md)
   * [Ejercicio 5: Creación de un sitio con GitHub pages](unidad1/ejercicio5.md)
 
-[Apuntes git y GitHub](https://lgarciavelazquez.github.io/iaw_202627/unidad1/git_y_github.pdf)
+[Apuntes git y GitHub](unidad1/Apuntes_Git_GitHub_Markdown.pdf)
 
-[Apuntes github pages](https://lgarciavelazquez.github.io/iaw_202627/unidad1/github_pages.pdf)
+[Apuntes github pages](unidad1/Apuntes_Sitios_Estaticos_GitHub_Pages.pdf)
        
 
 
