@@ -17,12 +17,12 @@ Deberás por lo tanto crear un repositorio llamado `iaw` teniendo el sitio como 
 
 El sitio dispondrá de una página de inicio llamada **README.md** (también le puedes llamar **index.md**), con un **TABLA DE CONTENIDOS** (o índice) a los ejercicios 1 a 4  realizados hasta entonces. La página de inicio se deberá encontrar en el nivel superior de la carpeta origen, en este caso el **directorio raíz**(/) de ___gh-pages___. El nombre y ubicación de los ejercicios son los siguientes:
 
-* **activididad1_1/ejercicio1.md** (resolución del ejercicio 1)
-* **activididad1_1/ejercicio2.md** (resolución del ejercicio 2)
-* **activididad1_1/ejercicio3.md** (resolución del ejercicio 3)
-* **activididad1_1/ejercicio4.md** (resolución del ejercicio 4)
+* **actividad1_1/ejercicio1.md** (resolución del ejercicio 1)
+* **actividad1_1/ejercicio2.md** (resolución del ejercicio 2)
+* **actividad1_1/ejercicio3.md** (resolución del ejercicio 3)
+* **actividad1_1/ejercicio4.md** (resolución del ejercicio 4)
 
-Todos los ejercicios deberán estar ubicados en un directorio llamado **activididad1_1**. Por otro lado, en el caso de la presencia de imágenes en la documentación de los ejercicios, deberán estar ubicadas en la ruta **activididad1_1/img**.
+Todos los ejercicios deberán estar ubicados en un directorio llamado **actividad1_1**. Por otro lado, en el caso de la presencia de imágenes en la documentación de los ejercicios, deberán estar ubicadas en la ruta **actividad1_1/img**.
 
 La página de inicio **README.md** (o **index.md**) tendrá una TABLA DE CONTENIDOS parecido al siguiente:
 
