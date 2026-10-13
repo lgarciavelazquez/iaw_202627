@@ -43,7 +43,7 @@ Trabaja con el repositorio de los ejercicios anteriores.
 
 8. Una vez que has trabajado en una rama, lo normal es querer incorporar los cambios a la rama principal. Para **unir** una rama a la principal, ejecutamos:
 
-		$ git checkout main
+		$ git checkout main ($ git switch main)
 		$ git merge [rama]
 
 	Cuando sólo se han **añadido o eliminado** archivos en una rama, es fácil unirla a la principal. El resultado simplemente será la suma o resta de esos archivos en la principal. Cuando se hacen **modificaciones** en archivos, incluyendo cambios en los nombres de los archivos, git detecta esos cambios y los adapta automáticamente, pero a veces surgen **conflictos**.
@@ -84,5 +84,5 @@ Trabaja con el repositorio de los ejercicios anteriores.
    * Borra la rama `primera`.
    * Crea una rama que se llame `segunda`, y modifica un fichero en ella para producir un conflicto al unirlo a la rama principal. Entrega el contenido del fichero donde se ha producido el conflicto.
    * Soluciona el conflicto que has creado en el punto anterior y sincroniza la rama `segunda` en el repositorio remoto en GitHub correspondiente. Entrega una captura de pantalla donde se vea que se ha creado la rama en el repositorio de GitHub.
-
+2. Una vez finalizado los ejercicios 1, 2 y 3 deberás subir a la **Actividad 1.1** de TEAMS la URL de GitHub de tu repositorio de prueba_tu_nombre. En tareas de TEAMS, encontrarás mas instrucciones sobre lo que debes entregar.
 

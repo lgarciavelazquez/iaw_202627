@@ -104,4 +104,5 @@ Confirma el cambio y súbelo al repositorio remoto.
 
 1. Crea un fichero en Markdown llamado `ejercicio1.md` donde documentes todos los pasos a realizar en el apartado 14. 
 2. Sube el fichero `ejercicio1.md` al repositorio remoto que has creado en el ejercicio: **prueba_tu_nombre**.
+3. Una vez finalizados los ejercicios 1, 2 y 3 deberás subir a la **Actividad 1.1** de TEAMS la URL de GitHub de tu repositorio de prueba_tu_nombre. En tareas de TEAMS, encontrarás mas instrucciones sobre lo que debes entregar.
 

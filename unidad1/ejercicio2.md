@@ -31,6 +31,7 @@ Crea un fichero en Markdown llamado `ejercicio2.md`. Este fichero tiene que tene
 2. Actualiza o personaliza tu perfil de GitHub
    - 2.1. Crea un repositorio con el mismo nombre que tu usuario de Github que incluya un archivo README.md
    - 2.2. Añade contenido al archivo README.md utilizando elementos de la sintaxis de Markdown para configurar tu página personal y súbelo al repositorio.
+3. Una vez finalizados los ejercicios 1, 2 y 3 deberás subir a la **Actividad 1.1** de TEAMS la URL de GitHub de tu repositorio de prueba_tu_nombre y el de tu perfil de GitHub.. En tareas de TEAMS, encontrarás mas instrucciones sobre lo que debes entregar.
     
 
 

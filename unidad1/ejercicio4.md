@@ -23,6 +23,8 @@ En este ejercicio tienes que hacer un pull request sobre el siguiente repositori
 
 ## ¿Qué tienes que entregar?
 
-1. Crea un fichero en Markdown llamado `ejercicio4.md` con los pasos fundamentales (con instrucciones) para realizar el pull request  y sube el fichero al repositorio **prueba_tu_nombre** creado en el ejercicio 1.  
+1. Crea un fichero en Markdown llamado `ejercicio4.md` con los pasos fundamentales (con instrucciones) para realizar el pull request  y sube el fichero al repositorio **prueba_tu_nombre** creado en el ejercicio 1. 
+2. Una vez finalizado el ejercicio 4 deberás subir a la **Actividad 1.1** de TEAMS la URL de GitHub de tu repositorio de prueba-pr-iaw_202627. En tareas de TEAMS, encontrarás mas instrucciones sobre lo que debes entregar.
+ 
 
  
